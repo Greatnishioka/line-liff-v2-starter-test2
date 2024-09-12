@@ -2,6 +2,8 @@ import Head from "next/head";
 import Answers from "./components/answer-tab";
 import Decoration_Image from "./components/decoration-image";
 import Scroll from "./components/scroll";
+import '../styles/questions-pages.css'
+
 
 export default function Home(props) {
 
@@ -39,8 +41,6 @@ export default function Home(props) {
             </div>
               <Decoration_Image className="page-bottom-image" />
           </div>
-
-
           
       </div>
         

@@ -1,3 +1,5 @@
+import '../../styles/questions-pages.css'
+
 export default function answers({className,question_title,answers =[]}) {
 
     return (
