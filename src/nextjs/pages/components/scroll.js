@@ -1,4 +1,4 @@
-import '../../styles/questions-pages.css'
+
 
 export default function scroll(props) {
 

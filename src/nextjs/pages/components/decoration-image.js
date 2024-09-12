@@ -1,4 +1,4 @@
-import '../../styles/questions-pages.css'
+
 
 export default function decoration_image({className,question_title,answer_bar_0,answer_bar_1,answer_bar_2}) {
 

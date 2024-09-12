@@ -1,6 +1,5 @@
 import Head from "next/head";
 import Decoration_Image from ".././components/decoration-image";
-import '../../styles/questions-pages.css'
 
 export default function question_done(props) {
 
