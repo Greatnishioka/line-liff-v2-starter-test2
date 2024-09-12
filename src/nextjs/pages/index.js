@@ -2,7 +2,7 @@ import Head from "next/head";
 import Answers from "./components/answer-tab";
 import Decoration_Image from "./components/decoration-image";
 import Scroll from "./components/scroll";
-import '../styles/questions-pages.css'
+// import '../styles/questions-pages.css'
 
 
 export default function Home(props) {
